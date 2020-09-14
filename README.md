@@ -9,7 +9,6 @@
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
@@ -17,6 +16,6 @@
 [website]: https://frapodeveloper.github.io/FraporitmosWebPage/
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://www.youtube.com/channel/UCYp5KKC8OUIS_CwbNwZeYbA
-[twitch]: https://twitter.com/FranEspino4
+[twitter]: https://twitter.com/FranEspino4
 [instagram]: https://www.instagram.com/fraporitmos_tech/
 [linkedin]: https://www.linkedin.com/in/fran-espino-558b381a7/
