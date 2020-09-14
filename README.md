@@ -12,7 +12,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[banner]: https://github.com/FranEspino/FranEspino/issues/1
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
