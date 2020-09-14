@@ -1,30 +1,23 @@
-### Hi there 👋
+# System.out.printl("Welcome, Hi Fran Espino!") 👋
 [![bg][banner]][website]
 ### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
-👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte] and [tailwind][tailwind]  
-💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+
+🤖 I love electronhics
+📲 I'm an aplication creator
+🌐 Web full stack developer
+🧠 I learned a lot in a short time and here are my projects.
+
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/FranEspino/FranEspino/master/frapo.gif
-[adobe]: https://adobe.com
-[react]: http://reactjs.org
-[gatsby]: https://gatsbyjs.org
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[murphee]: https://murphee.netlify.app
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
-[website]: https://bradgarropy.com
+[website]: https://frapodeveloper.github.io/FraporitmosWebPage/
 [twitter]: https://twitter.com/bradgarropy
-[youtube]: https://youtube.com/bradgarropy
-[twitch]: https://twitch.tv/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
-[npm]: https://npmjs.com/~bradgarropy
+[youtube]: https://www.youtube.com/channel/UCYp5KKC8OUIS_CwbNwZeYbA
+[twitch]: https://twitter.com/FranEspino4
+[instagram]: https://www.instagram.com/fraporitmos_tech/
+[linkedin]: https://www.linkedin.com/in/fran-espino-558b381a7/
