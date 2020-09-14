@@ -12,7 +12,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://github.com/FranEspino/FranEspino/issues/1#issue-701302738
+[banner]: https://raw.githubusercontent.com/FranEspino/FranEspino/master/frapo.gif
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
