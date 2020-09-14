@@ -1,4 +1,4 @@
-# System.out.println("Welcome,I'm Fran Espino!") 👋
+# System.out.println("Welcome, I'm Fran Espino!") 👋
 [![bg][banner]][website]
 
 🤖 I love electronhics\
