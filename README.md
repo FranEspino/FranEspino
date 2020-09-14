@@ -1,5 +1,30 @@
 ### Hi there 👋
+[![bg][banner]][website]
+### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
+👨🏼‍💻 building [murphee][murphee]  
+🧠 learning [svelte][svelte] and [tailwind][tailwind]  
+💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
-[![bg][banner]]
-[banner]: https://user-images.githubusercontent.com/63974005/93120177-97252300-f688-11ea-9db1-e5479a0f11ee.gif
-
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[adobe]: https://adobe.com
+[react]: http://reactjs.org
+[gatsby]: https://gatsbyjs.org
+[styled]: https://styled-components.com
+[jamstack]: https://jamstack.org
+[murphee]: https://murphee.netlify.app
+[svelte]: https://svelte.dev
+[tailwind]: https://tailwindcss.com
+[website]: https://bradgarropy.com
+[twitter]: https://twitter.com/bradgarropy
+[youtube]: https://youtube.com/bradgarropy
+[twitch]: https://twitch.tv/bradgarropy
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
+[npm]: https://npmjs.com/~bradgarropy
