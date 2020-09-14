@@ -1,4 +1,4 @@
-# System.out.println("Welcome, Hi Fran Espino!") 👋
+# System.out.println("Welcome,I'm Fran Espino!") 👋
 [![bg][banner]][website]
 
 🤖 I love electronhics\
@@ -12,7 +12,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/FranEspino/FranEspino/master/frapo.gif
+[banner]: https://raw.githubusercontent.com/FranEspino/FranEspino/master/banner.gif
 [website]: https://frapodeveloper.github.io/FraporitmosWebPage/
 [youtube]: https://www.youtube.com/channel/UCYp5KKC8OUIS_CwbNwZeYbA
 [twitter]: https://twitter.com/FranEspino4
