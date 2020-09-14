@@ -1,11 +1,10 @@
 # System.out.printl("Welcome, Hi Fran Espino!") 👋
 [![bg][banner]][website]
-### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
 
-🤖 I love electronhics
-📲 I'm an aplication creator
-🌐 Web full stack developer
-🧠 I learned a lot in a short time and here are my projects.
+🤖 I love electronhics\
+📲 I'm an aplication creator\
+🌐 Web full stack developer\
+🧠 I learned a lot in a short time and here are my projects.\
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
