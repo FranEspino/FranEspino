@@ -14,7 +14,6 @@
 
 [banner]: https://raw.githubusercontent.com/FranEspino/FranEspino/master/frapo.gif
 [website]: https://frapodeveloper.github.io/FraporitmosWebPage/
-[twitter]: https://twitter.com/bradgarropy
 [youtube]: https://www.youtube.com/channel/UCYp5KKC8OUIS_CwbNwZeYbA
 [twitter]: https://twitter.com/FranEspino4
 [instagram]: https://www.instagram.com/fraporitmos_tech/
