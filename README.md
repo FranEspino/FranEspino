@@ -1,10 +1,10 @@
 # System.out.println("Welcome, I'm Fran Espino!") 👋
 [![bg][banner]][website]
 
-### 🤖 I love electronhics
-### 📲  I'm an aplication creator
-### 🌐 Web full stack developer
-### 🧠 I learned a lot in a short time and here are my projects.
+##### 🤖 I love electronhics
+##### 📲  I'm an aplication creator
+##### 🌐 Web full stack developer
+##### 🧠 I learned a lot in a short time and here are my projects.
 
 Hello, I know that my github is not perfect but I have projects developed with a lot of effort,
 I like to help people like you, motivated to learn more about technology, what do you expect? 
