@@ -12,7 +12,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/FranEspino/FranEspino/master/banner.gif
+[banner]: https://raw.githubusercontent.com/FranEspino/FranEspino/master/bannerdev.gif
 [website]: https://frapodeveloper.github.io/FraporitmosWebPage/
 [youtube]: https://www.youtube.com/channel/UCYp5KKC8OUIS_CwbNwZeYbA
 [twitter]: https://twitter.com/FranEspino4
